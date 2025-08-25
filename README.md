@@ -1,6 +1,6 @@
 # 💻 Sobre o Projeto
 
-Durante o Bootcampa da Dio em parceria com a meutudo. vamos construir um kit de utilidades para um e-commerce, o projeto deve ser escalável para ter adição de novas features.
+Durante o Bootcamp da Dio em parceria com a meutudo. vamos construir um kit de utilidades para um e-commerce, o projeto deve ser escalável para ter adição de novas features.
 
 ## 📚 Pré-requisitos de Habilidades e Níveis de Conhecimento:
 
